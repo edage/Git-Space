@@ -4,3 +4,8 @@ hello java
 hello Amiko
 hello yzc
 hello zhz
+埃米
+深圳宝安
+深圳南山
+Java世界
+欢迎来到Linux命令行~~~~~~
